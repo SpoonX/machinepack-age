@@ -4,7 +4,7 @@
   "description"    : "A machinepack that allows you to work with ages.",
   "main"           : "index.js",
   "scripts"        : {
-    "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+    "test": "node_modules/mocha/bin/mocha -b test/unit/*.js"
   },
   "repository"     : {
     "type": "git",
@@ -20,7 +20,8 @@
     "calculate age"
   ],
   "devDependencies": {
-    "test-machinepack-mocha": "^0.2.2"
+    "chai" : "^2.1.0",
+    "mocha": "^2.1.0"
   },
   "dependencies"   : {
     "machine": "^3.0.0"
@@ -30,7 +31,9 @@
   "machinepack"    : {
     "friendlyName": "Age",
     "machineDir"  : "machines/",
-    "machines"    : ["calculate"]
+    "machines"    : [
+      "calculate"
+    ]
   },
   "bugs"           : {
     "url": "https://github.com/SpoonX/machinepack-age/issues"
