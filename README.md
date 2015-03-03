@@ -9,7 +9,7 @@
 Calculate an age based on date of birth.
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-age.svg)](http://badge.fury.io/js/machinepack-age) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-age.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-age)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-age.svg)](http://badge.fury.io/js/machinepack-age) [![Build Status](https://travis-ci.org/spoonx/machinepack-age.png?branch=master)](https://travis-ci.org/spoonx/machinepack-age)
 
 ```sh
 $ npm install machinepack-age
