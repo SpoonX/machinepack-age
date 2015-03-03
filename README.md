@@ -1,23 +1,23 @@
 
 <h1>
   <a href="http://node-machine.org" title="Node-Machine public registry"><img alt="node-machine logo" title="Node-Machine Project" src="http://node-machine.org/images/machine-anthropomorph-for-white-bg.png" width="50" /></a>
-  machinepack-calculateage
+  machinepack-age
 </h1>
 
-### [Docs](http://node-machine.org/machinepack-calculateage) &nbsp; [Browse other machines](http://node-machine.org/machinepacks) &nbsp;  [FAQ](http://node-machine.org/implementing/FAQ)  &nbsp;  [Newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine)
+### [Docs](http://node-machine.org/machinepack-age) &nbsp; [Browse other machines](http://node-machine.org/machinepacks) &nbsp;  [FAQ](http://node-machine.org/implementing/FAQ)  &nbsp;  [Newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine)
 
 Calculate an age based on date of birth.
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-calculateage.svg)](http://badge.fury.io/js/machinepack-calculateage) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-calculateage.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-calculateage)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-age.svg)](http://badge.fury.io/js/machinepack-age) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-age.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-age)
 
 ```sh
-$ npm install machinepack-calculate-age
+$ npm install machinepack-age
 ```
 
 ## Usage
 
-For the latest usage documentation, version information, and test status of this module, see <a href="http://node-machine.org/machinepack-calculateage" title="Calculate an age based on date of birth. (for node.js)">http://node-machine.org/machinepack-calculateage</a>.  The generated manpages for each machine contain a complete reference of all expected inputs, possible exit states, and example return values.  If you need more help, or find a bug, jump into [Gitter](https://gitter.im/node-machine/general) or leave a message in the project [newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine).
+For the latest usage documentation, version information, and test status of this module, see <a href="http://node-machine.org/machinepack-age" title="Calculate an age based on date of birth. (for node.js)">http://node-machine.org/machinepack-age</a>.  The generated manpages for each machine contain a complete reference of all expected inputs, possible exit states, and example return values.  If you need more help, or find a bug, jump into [Gitter](https://gitter.im/node-machine/general) or leave a message in the project [newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine).
 
 ## About  &nbsp; [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/node-machine/general?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
