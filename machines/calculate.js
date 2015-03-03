@@ -1,5 +1,6 @@
 // Basic machine meta.
 var machine = {
+  identity           : 'calculate',
   friendlyName       : 'Calculate',
   description        : 'Calculate an age based on date of birth.',
   extendedDescription: '',
