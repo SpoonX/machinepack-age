@@ -23,7 +23,7 @@ machine.exits = {
   },
   success          : {
     description: 'Returns the age based on the date of birth supplied.',
-    example    : '23'
+    example    : 23
   }
 };
 

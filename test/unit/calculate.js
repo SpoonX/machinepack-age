@@ -5,7 +5,7 @@ describe('.calculate()', function () {
   it('should calculate the correct age for the author.', function (done) {
     machine.calculate({dateOfBirth: '1991-04-24'}).exec({
       success          : function (age) {
-        assert.equal(age, 23, 'Age does not equal expected age.');
+        assert.strictEqual(age, 23, 'Age does not equal expected age.');
 
         done();
       },
